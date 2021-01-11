@@ -47,7 +47,7 @@ TODO: Add long description of the pod here.
    s.public_header_files = 'TransnSDK/Classes/Public/**/*.h'
 
     s.xcconfig = {
-          'VALID_ARCHS' => 'x86_64 armv7 arm64',
+#          'VALID_ARCHS' => 'x86_64 armv7 arm64',
           'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
        }
  s.resource_bundles = {
