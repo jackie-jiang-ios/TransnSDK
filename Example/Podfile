@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TransnSDK_Example' do
+  pod 'TransnSDK', :path => '../'
+
+ 
+end
