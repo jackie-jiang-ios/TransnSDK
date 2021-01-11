@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TransnSDK'
-  s.version          = '4.0.1'
+  s.version          = '4.0.3'
   s.summary          = '传神SDK'
 
 # This description is used to generate tags and improve search results.
